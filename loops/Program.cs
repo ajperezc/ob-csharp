@@ -67,7 +67,3 @@ for (int i = 0; i < height; i++)
     }
     Console.Write("\n");
 };
-
-Console.Write();
-
-Console.WriteLine();
